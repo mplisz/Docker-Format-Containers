@@ -1,6 +1,5 @@
 setup:
-	python3 -m venv ~/.myrepo
-
+	python3 -m venv ~/.Docker-Format-Containers
 install:
 	pip install -r requirements.txt
 
